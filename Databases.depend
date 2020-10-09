@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1473471902 source:c:\users\gerasimos\documents\makhs\sxolh\c++\databases\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstring>
+	<sstream>
+	"Hotel.h"
+	"Date.h"
+	"Reservation.h"
+
+1472895601 c:\users\gerasimos\documents\makhs\sxolh\c++\databases\include\hotel.h
+	<iostream>
+	<string>
+	<vector>
+	"Reservation.h"
+
+1472893814 source:c:\users\gerasimos\documents\makhs\sxolh\c++\databases\src\hotel.cpp
+	"Hotel.h"
+
+1473145938 source:c:\users\gerasimos\documents\makhs\sxolh\c++\databases\src\date.cpp
+	"Date.h"
+
+1473144189 c:\users\gerasimos\documents\makhs\sxolh\c++\databases\include\date.h
+	<iostream>
+	<cstdlib>
+
+1473144397 source:c:\users\gerasimos\documents\makhs\sxolh\c++\databases\src\reservation.cpp
+	"Reservation.h"
+	"Date.h"
+
+1473144139 c:\users\gerasimos\documents\makhs\sxolh\c++\databases\include\reservation.h
+	<sstream>
+	<string>
+	<iostream>
+	"Date.h"
+
+1474768300 source:c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstring>
+	<sstream>
+	"Hotel.h"
+	"Date.h"
+	"Reservation.h"
+	"RBtree.h"
+	"Trie.h"
+	"Node.h"
+
+1472884800 c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\include\hotel.h
+	<iostream>
+	<string>
+	<vector>
+	"Reservation.h"
+
+1473133338 c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\include\reservation.h
+	<sstream>
+	<string>
+	<iostream>
+	"Date.h"
+
+1473133388 c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\include\date.h
+	<iostream>
+	<cstdlib>
+
+1473135138 source:c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\src\date.cpp
+	"Date.h"
+
+1472883014 source:c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\src\hotel.cpp
+	"Hotel.h"
+
+1473133596 source:c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\src\reservation.cpp
+	"Reservation.h"
+	"Date.h"
+
+1474308882 source:c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\src\rbtree.cpp
+	"RBtree.h"
+
+1474308882 c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\include\rbtree.h
+	<iostream>
+	"Hotel.h"
+
+1474592577 source:c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\src\node.cpp
+	"Node.h"
+
+1474586388 c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\include\node.h
+	<iostream>
+	<vector>
+
+1474592501 source:c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\src\trie.cpp
+	"Trie.h"
+
+1474592501 c:\users\Γεράσιμος\documents\makhs\sxolh\c++\databases\include\trie.h
+	"Node.h"
+

@@ -1,0 +1,9 @@
+1;Grecotel Niforeika;5;14;gerasimos;5/6/2016;7;xristina;5/6/2016;5
+2;Lakopetra Beach;4;20;spuros;1/2/2051;4;aris;6/7/2013;15;petros;29/10/2076;10
+3;Tarantella Alissos;4;50
+4;Castella Alissos;5;24;papax;4/4/2018;10;vasia;4/4/2018;6
+5;Niforeika Beach;4;30;eirhnh;4/5/2016;7;elenh;4/6/2018;10;nikolia;5/12/2014;14;xrusa;7/12/2054;2
+6;Poseidon Palace;3;3;teta;31/2/1454;2
+7;Giannh's;3;4
+8;Kalogria Rooms;4;6;giannhs;5/6/1234;3
+9;Stella's;3;3
